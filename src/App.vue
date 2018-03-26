@@ -19,4 +19,12 @@ export default {
   color: #2c3e50;
   margin-top: 0px;
 }
+.yala {
+  background-color: green;
+  color: white;
+}
+.nola {
+  background-color: red;
+  color: white;
+}
 </style>

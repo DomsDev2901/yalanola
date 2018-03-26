@@ -1,7 +1,7 @@
 <template>
   <tr>
     <td>
-      <div class="desc">EGYPTO</div>
+      <div class="desc">Egypto</div>
     </td>
     <td>
       <div class="yala">60</div>
@@ -66,12 +66,4 @@
   </tr>
 </template>
 <style scoped>
-.yala {
-  background-color: green;
-  color: white;
-}
-.nola {
-  background-color: red;
-  color: white;
-}
 </style>
