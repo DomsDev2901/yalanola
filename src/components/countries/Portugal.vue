@@ -40,7 +40,7 @@
       <div class="yala">111</div>
     </td>
     <td>
-      <div class="nola">112</div>
+      <div class="yala">112</div>
     </td>
     <td>
       <div class="yala">113</div>
